@@ -1,0 +1,14 @@
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 2rem 9%;
+    background-clip: var(--second-bg-color);
+
+}
+
+.footer_text p {
+    font-size: 1.6rem;
+    
+}
